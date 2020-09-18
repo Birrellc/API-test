@@ -8,4 +8,4 @@ xhr.onreadystatechange = function() {
 
 xhr.open("GET", "http://ci-swapi.herokuapp.com/api/");
 
-xhr.send();
+xhr.send(); 
